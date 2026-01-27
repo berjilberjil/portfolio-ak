@@ -67,10 +67,32 @@ const works = [
     shortDescription:
       "10 lakhs Loans for Chennai Businesses. Quick approval. Easy EMIs. 100% digital.",
     longDescription:
-      "Chennai Business Loan is a financial app from Bulkpe, built to empower micro and small business owners across Chennai. Whether you're a shopkeeper, trader, service provider, or small manufacturer - we make it easy for you to get the credit you need to grow.chenna",
+      "Chennai Business Loan is a financial app from Bulkpe, built to empower micro and small business owners across Chennai. Whether you're a shopkeeper, trader, service provider, or small manufacturer - we make it easy for you to get the credit you need to grow.chennai",
     imageUrl: "/images/chennai-loan.png",
     projectLink:
       "https://play.google.com/store/apps/details?id=com.chennailoanapp&hl=en_IN",
+  },
+  {
+    id: 7,
+    title: "Bulkpe - Zero Balance Biz Acc",
+    shortDescription:
+      "Bulkpe Account - Zero Balance Current Account for Business Owners",
+    longDescription:
+      "Bulkpe Account, in partnership with NSDL Payments Bank, is India’s best Zero Balance Current Account app designed exclusively for individual business owners, freelancers, and entrepreneurs",
+    imageUrl: "/images/bulkpe_acc.png",
+    projectLink:
+      "https://play.google.com/store/apps/details?id=com.bulkpe.account&hl=en_IN",
+  },
+  {
+    id: 8,
+    title: "Verify Stack by Bulkpe",
+    shortDescription:
+      "Instant PAN, Bank Account, IFSC, GST & 40+ more verification tools in one app.",
+    longDescription:
+      "Bulkpe Verify is your all-in-one identity and document verification app designed for businesses, fintech, developers, and professionals. Instantly verify PAN, IFSC, GST, Passport, Voter ID, Fastag, company MCA documents and 40+ more products - all with a single tap.",
+    imageUrl: "/images/Verify_stack.png",
+    projectLink:
+      "https://play.google.com/store/apps/details?id=com.bulkpe.verify&hl=en_IN",
   },
 ];
 
